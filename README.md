@@ -2,11 +2,21 @@
 <hr />
 
 <b>About me: </b> I am Shashil Sravan, A MERN Developer (MongoDB, ExpressJS, ReactJS and NodeJS). I have 2+ years working experience on frontend development and 1+ year experience in backend development and database management.
-  
-My skills: 
+
+<hr />
+
+### My skills: 
 <ul>
     <li> 
         HTML &nbsp;
         <img src="https://hackr.io/tutorials/learn-html-5/logo/logo-html-5?ver=1587977020" height="30px" width="30px" /> 
+    </li>
+    <li>
+        CSS &nbsp; 
+        <img src="https://www.logolynx.com/images/logolynx/ee/ee6197d1b17644329226e0587dce4a9c.png" height="30px" width="30px" />
+    </li>
+    <li>
+        Javascript &nbsp;
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="30px" width="30px" />
     </li>
 </ul>
