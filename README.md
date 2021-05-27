@@ -6,6 +6,8 @@
 <b>About me: </b> I am Shashil Sravan, A MERN Developer (MongoDB, ExpressJS, ReactJS and NodeJS). I have 2+ years working experience on frontend development and 1+ year experience in backend development and database management.
 
 <b> Education: </b>
+
+
 <i> 1. B.Tech - Computer Science Engineering - GPA: 8.91 </i>
 College: Rajiv gandhi University of Knowledge Technologies
 
