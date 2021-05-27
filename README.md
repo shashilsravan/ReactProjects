@@ -12,7 +12,7 @@
         <img src="https://hackr.io/tutorials/learn-html-5/logo/logo-html-5?ver=1587977020" height="30px" width="30px" /> 
     </li>
     <li>
-        CSS &nbsp; 
+        CSS
         <img src="https://www.logolynx.com/images/logolynx/ee/ee6197d1b17644329226e0587dce4a9c.png" height="30px" width="30px" />
     </li>
     <li>
