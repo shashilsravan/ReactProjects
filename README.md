@@ -30,4 +30,8 @@ College: Rajiv gandhi University of Knowledge Technologies
         Javascript &nbsp;
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="30px" width="30px" />
     </li>
+    <li>
+        ReactJS 
+        <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/react-1-logo.png" height="30px" width="45px">
+    </li>
 </ul>
