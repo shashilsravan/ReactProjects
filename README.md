@@ -5,7 +5,7 @@
   
 My skills: 
 <ul>
-    <li style="display: flex; align-items: center"> 
+    <li> 
         HTML &nbsp;
         <img src="https://hackr.io/tutorials/learn-html-5/logo/logo-html-5?ver=1587977020" height="30px" width="30px" /> 
     </li>
